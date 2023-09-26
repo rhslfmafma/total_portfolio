@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'CJ ONLYONE';
+    src: url('CJONLYONEMedium.woff2') format('woff2'),
+        url('CJONLYONEMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CJ ONLYONE';
+    src: url('CJONLYONEBold.woff2') format('woff2'),
+        url('CJONLYONEBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
